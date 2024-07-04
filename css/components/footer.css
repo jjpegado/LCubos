@@ -1,0 +1,6 @@
+.footer {
+    background-color: var(--purple-900);
+    color: var(--white-900);
+    text-align: center;
+    text-transform: capitalize;
+}
